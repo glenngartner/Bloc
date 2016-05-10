@@ -9,8 +9,9 @@ This is a repository for my Bloc assignments
 These folders are separated into program phases
 
 * 01 - Rails Web Development
-* 02 - Front End
-* 03 - Software Development
+* 02 - Frontend Web Development
+* 03 - Software Engineering Principles
+* 04 - Open Source Apprenticeship
 
 ### Within each phase, folders are created for each week:
 
